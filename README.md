@@ -5,7 +5,7 @@ Computer Networks course project in ns2 simulator
 
 To run :
 
-Install ns2 simulator
+Install ns2 simulator and install nam to visualize the ns simulations and real world packet trace data
 and then type in terminal
 >ns dvProg.tcl
 
